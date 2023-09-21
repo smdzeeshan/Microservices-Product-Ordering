@@ -1,0 +1,8 @@
+com/mac/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/mac/inventoryservice/controller/InventoryController.class
+com/mac/inventoryservice/model/Inventory$InventoryBuilder.class
+com/mac/inventoryservice/model/Inventory.class
+com/mac/inventoryservice/repository/InventoryRepository.class
+com/mac/inventoryservice/service/InventoryService.class
+com/mac/inventoryservice/dto/InventoryResponse.class
+com/mac/inventoryservice/InventoryServiceApplication.class

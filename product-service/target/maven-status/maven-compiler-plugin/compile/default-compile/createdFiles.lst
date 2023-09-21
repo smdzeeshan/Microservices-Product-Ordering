@@ -1,0 +1,9 @@
+com/mac/productservice/repository/ProductRepository.class
+com/mac/productservice/dto/ProductResponse.class
+com/mac/productservice/ProductServiceApplication.class
+com/mac/productservice/service/ProductService.class
+com/mac/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/mac/productservice/dto/ProductRequest.class
+com/mac/productservice/model/Product$ProductBuilder.class
+com/mac/productservice/controller/ProductController.class
+com/mac/productservice/model/Product.class

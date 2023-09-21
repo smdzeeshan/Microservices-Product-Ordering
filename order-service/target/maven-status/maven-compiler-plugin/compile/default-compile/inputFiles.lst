@@ -1,0 +1,11 @@
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/repository/OrderRepository.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/event/OrderPlacedEvent.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/dto/InventoryResponse.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/dto/OrderLineItemsDto.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/dto/OrderRequest.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/service/OrderService.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/controller/OrderController.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/model/Order.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/OrderServiceApplication.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/config/WebClientConfig.java
+/Users/zeeshanhaider/Documents/Jworkspace/Microservcies-Product-Ordering/order-service/src/main/java/com/example/orderservice/model/OrderLineItems.java
